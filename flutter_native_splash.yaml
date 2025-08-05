@@ -1,0 +1,13 @@
+flutter_native_splash:
+  color: "#2A5298"
+  image: "assets/splash.png"
+  
+  color_dark: "#121212"
+  image_dark: "assets/splash.png"
+
+  android_12:
+    image: "assets/splash.png"  # Icono adaptativo
+    color: "#2A5298"  # Color de fondo
+
+  web: false
+  ios: true
