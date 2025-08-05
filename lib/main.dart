@@ -8,9 +8,9 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   await Supabase.initialize(
-    url: 'https://bayhdtjxtvmefclngraf.supabase.co',
+    url: 'TUS CREDENCIALES SUPABASE',
     anonKey:
-        'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJheWhkdGp4dHZtZWZjbG5ncmFmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDg0NTkzNDksImV4cCI6MjA2NDAzNTM0OX0.gwPzeh7k-x4y-vOYRvbsVupCFBQhzf9Q9CSTOA6nNAw',
+        'TUS CREDENCIALES SUPABASE',
   );
 
   final supabase = Supabase.instance.client;
@@ -57,3 +57,4 @@ class AuthWrapper extends StatelessWidget {
     return session != null ? const HomePage() : const AuthPage();
   }
 }
+
