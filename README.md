@@ -133,3 +133,7 @@ Formulario con selección de rol: `Administrador` o `Topógrafo`.
 * ▶️ **Lista de reproducción en YouTube:**
   
   [Ver demostración completa](https://youtube.com/playlist?list=PLGmJaTZQ0n0tM8js6xIsj_DPnQQSH8mWc&si=rlgVzXfQ7xADGX3C)
+
+* 🛒 **Disponible en Amazon Appstore:**
+  
+  [Descargar aplicación](https://www.amazon.com/gp/product/B0FKLBD29R)
